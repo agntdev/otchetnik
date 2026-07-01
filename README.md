@@ -1,0 +1,7 @@
+# Отчётник
+
+Telegram-бот для сбора еженедельных PDF/DOCX отчётов, напоминаний участникам и доставки файлов личному менеджеру.
+
+Spec: [`docs/blueprint.md`](docs/blueprint.md).
+
+Built on [agnt-gm.ai](https://agnt-gm.ai). The whole bot is built and refined here as pull requests across successive build passes.
